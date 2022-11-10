@@ -1,5 +1,5 @@
 
-Open folder, install it and run:
+Open folder with front, install npm and run:
 
 ```sh
 cd C:\Users\user\Desktop\mycar-front
